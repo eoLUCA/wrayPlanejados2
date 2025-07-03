@@ -171,13 +171,6 @@ a {
     content: url('img/Phone-Streamline-Plump-_1_.png');
 }
 
-body {
-  font-family: "Asap", sans-serif;
-  color:#989898;
-  margin:10px;
-  font-size:16px;
-}
-
 #demo {
   height:100%;
   position:relative;
